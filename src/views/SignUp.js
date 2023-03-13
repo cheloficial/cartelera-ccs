@@ -1,9 +1,9 @@
-import {Auth} from "../components/auth.js";
+import {AuthSignUp} from "../components/authSignUp";
 
 function SignUp(){
     return(
         <div className='SignUp'>
-            <Auth/>
+            <AuthSignUp/>
         </div>
     );
 }
