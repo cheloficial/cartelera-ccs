@@ -6,6 +6,7 @@ import Home from "./views/Home";
 import Movie from "./views/Movie";
 import {Search} from "./views/Search";
 import Navbar from "./components/navbar";
+import "./App.css";
 
 
 function App() {
