@@ -4,8 +4,9 @@ import SignUp from "./views/SignUp";
 import SignIn from "./views/SignIn";
 import Home from "./views/Home";
 import Movie from "./views/Movie";
-import Search from "./views/Search";
+import {Search} from "./views/Search";
 import Navbar from "./components/navbar";
+
 
 function App() {
   return (
